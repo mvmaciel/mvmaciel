@@ -22,4 +22,4 @@ Bom.. vamos lá! Como você já sabe meu nome é Marcos, tenho mais de 10 anos d
 
 
 #### Minhas redes ![Redes sociais](https://img.icons8.com/dusk/25/000000/mobile-social-networking.png)
-[![Instagram](https://img.icons8.com/cute-clipart/50/000000/instagram-new.png)](instagram.com/marcosmacieel)[![Linkedin](https://img.icons8.com/fluent/50/000000/linkedin.png)](https://www.linkedin.com/in/marcosmacieel/)
+[![Instagram](https://img.icons8.com/cute-clipart/50/000000/instagram-new.png)](https://instagram.com/marcosmacieel)[![Linkedin](https://img.icons8.com/fluent/50/000000/linkedin.png)](https://www.linkedin.com/in/marcosmacieel/)
