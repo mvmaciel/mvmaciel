@@ -16,9 +16,9 @@ Bom.. vamos lá! Como você já viu ai, meu nome é Marcos 😄, tenho mais de 1
 [@AccurateSoftware]: <https://accurate.com.br/>
 #### Um pouco mais ...
 - 🔭 Trabalhando atualmente na [@AccurateSoftware] como Analista e Desenvolvedor
-- 🌱 Estou estudando **Flutter** e estou apaixonado pelo Framework, você pode ver alguns repositórios sobre aqui no perfil
+- 🌱 Estou estudando **Flutter** 📲 e estou apaixonado pelo Framework, você pode ver alguns repositórios sobre aqui no perfil
 - ⚡ Fato curioso: Adoro ver anime, e sou fã de Naruto haha, amo astronomia 🪐 e passo um bom tempo a noite admirando o céu sempre que consigo 
-- 💬 Em breve pretendo criar um blog com diversos conteúdos técnicos e geeks 🤓 como passatempo e forma de contribuição com a comunidade
+- 💬 Em breve pretendo criar um blog com diversos conteúdos técnicos e geeks 🤓 como passatempo e forma de contribuição com a comunidade 👨‍💻
 
 
 #### Minhas redes ![Redes sociais](https://img.icons8.com/dusk/25/000000/mobile-social-networking.png)
