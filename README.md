@@ -4,7 +4,7 @@
 
 Tudo bem com você? seja muito bem vindo ao meu perfil ! 
 
-Bom.. vamos lá! Como você já viu ai, meu nome é Marcos 😄, tenho mais de 10 anos de experência com **Java** e em todo esses anos trabalhei com alguns **Frameworks** como: `Spring MVC, JSF e Spring Boot `. 
+Bom.. vamos lá! Como você já viu ai, meu nome é Marcos 😄, tenho mais de 10 anos de experência com **Java** e em todo esses anos trabalhei com alguns **Frameworks** como: `Spring MVC, JSF e Spring Boot, Hibernate, etc..  `. 
 
 Trabalhei em varios projetos de diversos seguimentos, dentre eles alguns são: 
 ```
@@ -16,7 +16,7 @@ Trabalhei em varios projetos de diversos seguimentos, dentre eles alguns são:
 - Alguns projetos na área de telecom
 ```
 [@AccurateSoftware]: <https://accurate.com.br/>
-#### Um pouco mais ...
+#### Um pouco mais sobre mim  ...
 - 🔭 Trabalhando atualmente na [@AccurateSoftware] como Analista e Desenvolvedor
 - 🌱 Estou estudando **Flutter** 📲 e estou apaixonado pelo Framework, você pode ver alguns repositórios sobre aqui no perfil
 - ⚡ Fato curioso: Adoro ver anime, e sou fã de Naruto haha, amo astronomia 🪐 e passo um bom tempo a noite admirando o céu sempre que consigo 
