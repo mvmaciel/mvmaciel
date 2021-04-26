@@ -4,7 +4,9 @@
 
 Tudo bem com você? seja muito bem vindo ao meu perfil ! 
 
-Bom.. vamos lá! Como você já viu ai, meu nome é Marcos 😄, tenho mais de 10 anos de experência com **Java** adquirindo bastante conhecimento com a linguagem e também em **Frameworks** como: `Spring MVC, JSF e Spring Boot `. Trabalhei em varios projetos de diversos seguimentos, dentre eles alguns são: 
+Bom.. vamos lá! Como você já viu ai, meu nome é Marcos 😄, tenho mais de 10 anos de experência com **Java** e em todo esses anos trabalhei com alguns **Frameworks** como: `Spring MVC, JSF e Spring Boot `. 
+
+Trabalhei em varios projetos de diversos seguimentos, dentre eles alguns são: 
 ```
 - Sistemas fiscais (Emissão de NFe, CTe, MDFe e NFC-e)
 - E-commerce e Marketplaces
